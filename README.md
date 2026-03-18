@@ -19,6 +19,19 @@ The original website has simply been packaged into an Android application for co
 
 ---
 
+## Screenshots
+
+### Home
+![Home](home.jpg)
+
+### Player
+![Player](player.jpg)
+
+### Audio Settings
+![Audio Settings](audio-settings.jpg)
+
+### Playlist Import
+![Playlist Import](playlist-import.jpg)
 ## Download
 
 You can download the APK from the **Releases page**:
