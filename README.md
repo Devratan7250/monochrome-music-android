@@ -1,4 +1,4 @@
-# monochrome-music-android
+# monochrome-music-android (MonoDev)
 # Monochrome Music Android Wrapper
 
 Community-made Android wrapper for **Monochrome Music**, a minimal and modern open-source music platform.
