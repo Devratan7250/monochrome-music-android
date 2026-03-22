@@ -1,22 +1,54 @@
-# MonoDev Music — Unofficial Android wrapper for Monochrome
-# Monochrome Music Android Wrapper
+# 🎧 MonoDev Music — Hybrid Android Music Client
 
-Community-made Android wrapper for **Monochrome Music**, a minimal and modern open-source music platform.
+A modern hybrid Android music client combining web streaming with native system-level controls.
 
-⚠️ This is **NOT an official app**.
-
-The original website has simply been packaged into an Android application for convenience.
+> ⚠️ This is NOT an official app.  
+> This project does not own or host any content.  
+> All credit goes to the original developers.
 
 ---
 
-## Features
+## ✨ Features
 
-• No tracking  
-• No unnecessary permissions  
-• Lightweight Android wrapper  
-• Runs the original Monochrome Music website  
-• Works just like the web version
+- 🎵 Full media controls (play, pause, next, previous)
+- 🔁 Like, repeat & seekbar support
+- 🔒 Lock screen media controls
+- 🎛️ Control panel integration
+- ⚡ Optimized performance (smooth experience)
+- 📱 Clean & minimal UI
+- 🔗 Open music links directly in the app
 
+---
+
+## 📦 Download
+
+👉 https://github.com/Devratan7250/monochrome-music-android/releases
+
+---
+
+## 🌐 Original Project
+
+https://monochrome.tf
+
+---
+
+## 💬 Community
+
+https://t.me/monodev_music
+
+---
+
+## ⚠️ Known Issues
+
+- Google login may not work inside the app
+- Minor UI jitter in lyrics/queue (being improved)
+
+---
+
+## ❤️ Credits
+
+- Original Monochrome Developers  
+- MonoDev (Android Client)
 ---
 
 ## Screenshots
@@ -32,11 +64,6 @@ The original website has simply been packaged into an Android application for co
 
 ### Playlist Import
 ![Playlist Import](playlist-import.jpg)
-## Download
-
-You can download the APK from the **Releases page**:
-
-https://github.com/Devratan7250/monochrome-music-android/releases
 
 ---
 
@@ -56,16 +83,6 @@ This is normal behaviour for side-loaded apps.
 
 ---
 
-## Known Issues
-
-Login may not work properly inside the wrapper.
-
-If you want to log in, please use the **original website in your browser**.
-
-This issue may take time to fix.
-
----
-
 ## Original Project
 
 Monochrome Music (Open Source):
@@ -79,7 +96,5 @@ https://monochrome.tf
 ---
 
 ## Disclaimer
-
-This repository only provides a **community wrapper** for the Monochrome Music website.
 
 I am **not the developer of Monochrome Music**.
