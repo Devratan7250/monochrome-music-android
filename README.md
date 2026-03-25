@@ -6,6 +6,9 @@ A modern hybrid Android music client combining web streaming with native system-
 > This project does not own or host any content.  
 > All credit goes to the original developers.
 
+
+
+
 ---## Screenshots
 
 ### Home
