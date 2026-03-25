@@ -9,7 +9,8 @@ A modern hybrid Android music client combining web streaming with native system-
 
 
 
----## Screenshots
+---
+## Screenshots
 
 ### Home
 <img  src="https://github.com/user-attachments/assets/22809129-7e71-4e97-82ce-8367c354bfff"  width="220"/>
