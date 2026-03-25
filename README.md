@@ -4,7 +4,18 @@
 </p>
 
 <h1 align="center">MonoDev Music</h1>
+## 🚀 700+ Downloads in 24 Hours!
 
+We just hit **700+ downloads in a single day** 🤯  
+
+Incredible support from the community — thank you all ❤️  
+
+MonoDev Music is still evolving, and this is only the start.  
+Expect better performance, new features, and continuous improvements 🚀  
+
+Let’s build something amazing together 🎧
+
+---
 <p align="center">
   <img src="https://img.shields.io/github/stars/Devratan7250/monodev-music-client?style=for-the-badge"/>
 </p>
