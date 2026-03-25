@@ -30,7 +30,7 @@ A modern hybrid Android music client combining web streaming with native system-
 
 
 ### Playlist 
-<img  src="https://github.com/user-attachments/assets/caf41095-4b20-464b-93b9-ad6b2b592f41" / width="220"/>
+<img  src="https://github.com/user-attachments/assets/caf41095-4b20-464b-93b9-ad6b2b592f41"  width="220"/>
 
 ## ✨ Features
 
