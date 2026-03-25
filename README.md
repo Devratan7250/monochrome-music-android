@@ -1,4 +1,15 @@
 # 🎧 MonoDev Music — Hybrid Android Music Client
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/58a1ac00-b880-4b8a-a0df-f2abb4bf3f79" width="120"/>
+</p>
+
+<h1 align="center">MonoDev Music</h1>
+
+<p align="center">
+  <img src="https://img.shields.io/github/stars/Devratan7250/monodev-music-client?style=for-the-badge"/>
+  <img src="https://img.shields.io/github/forks/Devratan7250/monodev-music-client?style=for-the-badge"/>
+</p>
+
 
 A modern hybrid Android music client combining web streaming with native system-level controls.
 
