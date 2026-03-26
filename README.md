@@ -7,7 +7,6 @@
 <h2 align="center">MonoDev Music</h2>
 
 
----
 Incredible support from the community — thank you all ❤️  
 
 MonoDev Music is still evolving, and this is only the start.  
