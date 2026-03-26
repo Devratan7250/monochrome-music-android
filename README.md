@@ -40,6 +40,10 @@ Let’s build something amazing together 🎧
 > All credit goes to the original developers.
 
 ---
+
+## 🚧 This project is in active development (early build)
+
+---
 ## ✨ Features
 
 - 🎵 **Smart Recommendations**  
