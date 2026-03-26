@@ -29,7 +29,9 @@ Let’s build something amazing together 🎧
   <a href="https://t.me/monodev_music_community">
     <img src="https://img.shields.io/badge/Join-Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
   </a>
-   <img src="https://img.shields.io/github/issues/Devratan7250/monodev-music-client?style=for-the-badge&label=OPEN%20ISSUES"/>
+  <a href="https://github.com/Devratan7250/monodev-music-client/issues">
+    <img src="https://img.shields.io/github/issues/Devratan7250/monodev-music-client?style=for-the-badge"/>
+  </a>
 </p>
 <p align="center">
   <img src="https://img.shields.io/github/downloads/Devratan7250/monodev-music-client/total?style=for-the-badge" />
