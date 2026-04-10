@@ -33,7 +33,7 @@ Let’s build something amazing together 🎧
   <a href="https://t.me/monodev_music_community">
     <img src="https://img.shields.io/badge/Join-Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
   </a>
-  <a href="https://github.com/Devratan7250/monodev-music-client/issues">
+  <a href="https://github.com/MonoDevHQ/monodev-music-client/issues">
     <img src="https://img.shields.io/github/issues/Devratan7250/monodev-music-client?style=for-the-badge"/>
   </a>
 </p>
