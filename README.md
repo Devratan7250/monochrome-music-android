@@ -45,6 +45,8 @@ Let’s build something amazing together 🎧
   <img src="https://img.shields.io/github/downloads/Devratan7250/monodev-music-client/total?style=for-the-badge"/>
 </p>
 
+---
+
 ### ❤️ Support the Project
 
 <p align="center">
